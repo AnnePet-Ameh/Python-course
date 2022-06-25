@@ -1,2 +1,2 @@
-# Python-course
-I will put my python codes here
+# GaminatorPy
+Everything .py and .ipynb
